@@ -1,4 +1,4 @@
-# Customer Segmentation — E-Commerce (Online Retail II)
+# Customer Segmentation
 
 > End-to-end customer segmentation project on transactional e-commerce data : data cleaning, RFM feature engineering enriched with cancel_rate, and K-Means behavioral clustering.
 
